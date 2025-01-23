@@ -1,8 +1,13 @@
-.menu-bar{
+* {
+  margin: 0px;
+}
+
+.menu-bar {
   padding: 10px;
 }
 
-.menu-item{
-    display: flex;
-    justify-content: end;
+.menu-item {
+  display: flex;
+  justify-content: end;
 }
+
