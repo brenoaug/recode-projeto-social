@@ -1,0 +1,8 @@
+.menu-bar{
+  padding: 10px;
+}
+
+.menu-item{
+    display: flex;
+    justify-content: end;
+}
