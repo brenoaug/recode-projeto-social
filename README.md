@@ -90,6 +90,35 @@ A palavra "_Autóctone_" tem origem no grego "autochthōn", que é uma combinaç
 
 5. **Qual o cronograma das atividades?**
    
+   **Cronograma de Atividades**
+    
+    - **Fase 1:** Planejamento e Preparação
+  
+            Planejamento e a pesquisa, reunindo dados e referências para embasar o desenvolvimento do projeto.
+
+            Semana 1-2:
+
+            Pesquisa, delimitação do tema e fase de ideação.
+
+            Reuniões iniciais com a equipe para compreensão do projeto.
+
+            Coleta de dados e referências (artigos, estatísticas, leis).
+
+            Criação da estrutura básica da plataforma online.
+    
+    - **Fase 2:** Desenvolvimento da Plataforma
+
+            Desenvolvimento do site:
+
+            Semana 3-5:
+
+            - Design da interface da plataforma (UX/UI).
+            - Desenvolvimento do HTML, CSS, JavaScript.
+            
+            Semana 6:
+
+            - Realização da modelagem conceitual, lógica e física do banco de dados.
+            
 
 6. **Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?**
 
