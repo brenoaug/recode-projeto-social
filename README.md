@@ -121,9 +121,10 @@ A palavra "_Autóctone_" tem origem no grego "autochthōn", que é uma combinaç
             
 
 6. **Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?**
+   A distribuição das atividades e dos processos de execução foram divididas de forma que cada integrante do squad se sentia mais familiarizado com cada etapa do projeto. Além disso as reuniões e organização do Trello facilitou para que cada um pudesse contribuir da melhor maneira.
 
 
-7. **Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades?**
+8. **Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades?**
    
    Foi utilizado o [Trello](https://trello.com/b/l5oSqgPK/projeto-autoctone)
 
