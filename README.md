@@ -1,11 +1,26 @@
-# Projeto Social da Recode
+# Projeto Social da Recode - Projeto Autóctone
+
+## Índice
+
+- [Projeto Social da Recode - Projeto Autóctone](#projeto-social-da-recode---projeto-autóctone)
+  - [Índice](#índice)
+  - [Sobre](#sobre)
+    - [Nome do Projeto: "Projeto *Autóctone*"](#nome-do-projeto-projeto-autóctone)
+      - [Etimologia da Palavra "Autóctone"](#etimologia-da-palavra-autóctone)
+  - [Design do Projeto](#design-do-projeto)
+  - [Modelagem do Banco de Dados](#modelagem-do-banco-de-dados)
+    - [Modelagem Conceitual/Física](#modelagem-conceitualfísica)
+    - [Modelagem Física do Banco de Dados](#modelagem-física-do-banco-de-dados)
+  - [Licença](#licença)
+
+## Sobre
 Projeto social do squad45/51 da Recode Pro AI, cujo o tema é: ***Índigenas***.
 
 O projeto consiste em desenvolver uma plataforma digital que ajuda a preservar e disseminar o conhecimento indígena, além de facilitar a comunicação e a educação.
 
-## Nome do Projeto: "Projeto *Autóctone*"
+### Nome do Projeto: "Projeto *Autóctone*"
 
-### Etimologia da Palavra "Autóctone"
+#### Etimologia da Palavra "Autóctone"
 
 A palavra "*Autóctone*" tem origem no grego "autochthōn", que é uma combinação de "autos" (próprio) e "chthōn" (terra). O termo é utilizado para descrever algo ou alguém que é nativo ou originário do lugar onde se encontra. No contexto do nosso projeto, "Autóctone" reflete a valorização e preservação das culturas indígenas, que são as culturas originárias do nosso território.
 
@@ -17,11 +32,17 @@ Acesse o template: [Creative - Start Bootstrap](https://startbootstrap.com/theme
 
 ## Modelagem do Banco de Dados
 
-Abaixo está a imagem da modelagem do banco de dados utilizada no projeto:
+A modelagem do banco de dados foi projetada para atender às necessidades do projeto, garantindo a integridade e a eficiência no armazenamento e recuperação dos dados. A estrutura do banco de dados inclui tabelas para armazenar informações sobre alunos, professores, mentores, aulas comunitárias, mentorias e oficinas. Além disso, foram criadas tabelas associativas para gerenciar os relacionamentos entre alunos e as atividades oferecidas. A modelagem foi feita de forma a permitir a fácil expansão e manutenção do sistema, utilizando chaves primárias e estrangeiras para assegurar a integridade referencial dos dados.
+
+### Modelagem Conceitual/Física
+
+Abaixo está a representação gráfica da modelagem do banco de dados:
 
 ![Modelagem do Banco de Dados](./database/modelagem.png)
 
-## Modelagem Física do Banco de Dados
+### Modelagem Física do Banco de Dados
+
+A modelagem física do banco de dados foi realizada utilizando o sistema de gerenciamento de banco de dados MySQL. Abaixo estão os scripts SQL que foram usados para criar as tabelas e definir os relacionamentos entre elas.
 
 ```sql
 -- Criação do Banco de Dados
