@@ -21,6 +21,8 @@ Abaixo está a imagem da modelagem do banco de dados utilizada no projeto:
 
 ![Modelagem do Banco de Dados](./database/modelagem.png)
 
+## Modelagem Física do Banco de Dados
+
 ```sql
 -- Criação do Banco de Dados
 CREATE DATABASE ProjetoAutoctone;
