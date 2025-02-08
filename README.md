@@ -1,30 +1,18 @@
 # Projeto Social da Recode - Projeto Autóctone
 
-## Índice
-
-- [Projeto Social da Recode - Projeto Autóctone](#projeto-social-da-recode---projeto-autóctone)
-  - [Índice](#índice)
-  - [Sobre](#sobre)
-    - [Nome do Projeto: "Projeto *Autóctone*"](#nome-do-projeto-projeto-autóctone)
-      - [Etimologia da Palavra "Autóctone"](#etimologia-da-palavra-autóctone)
-  - [Design do Projeto](#design-do-projeto)
-  - [Modelagem do Banco de Dados](#modelagem-do-banco-de-dados)
-    - [Modelagem Conceitual/Física](#modelagem-conceitualfísica)
-    - [Modelagem Física do Banco de Dados](#modelagem-física-do-banco-de-dados)
-  - [Licença](#licença)
-
 ## Sobre
-Projeto social do squad45/51 da Recode Pro AI, cujo o tema é: ***Índigenas***.
+
+Projeto social do squad45/51 da Recode Pro AI, cujo o tema é: **_Índigenas_**.
 
 O projeto consiste em desenvolver uma plataforma digital que ajuda a preservar e disseminar o conhecimento indígena, além de facilitar a comunicação e a educação.
 
-### Nome do Projeto: "Projeto *Autóctone*"
+### Nome do Projeto: "Projeto _Autóctone_"
 
 #### Etimologia da Palavra "Autóctone"
 
-A palavra "*Autóctone*" tem origem no grego "autochthōn", que é uma combinação de "autos" (próprio) e "chthōn" (terra). O termo é utilizado para descrever algo ou alguém que é nativo ou originário do lugar onde se encontra. No contexto do nosso projeto, "Autóctone" reflete a valorização e preservação das culturas indígenas, que são as culturas originárias do nosso território.
+A palavra "_Autóctone_" tem origem no grego "autochthōn", que é uma combinação de "autos" (próprio) e "chthōn" (terra). O termo é utilizado para descrever algo ou alguém que é nativo ou originário do lugar onde se encontra. No contexto do nosso projeto, "Autóctone" reflete a valorização e preservação das culturas indígenas, que são as culturas originárias do nosso território.
 
-## Design do Projeto 
+## Design do Projeto
 
 Estamos utilizando o template Creative da Start Bootstrap, o que acelerará o desenvolvimento e deixará o site visualmente atraente. No entanto, será necessário adaptar o tema, pois ele é originalmente uma landing page e precisamos transformá-lo em um site com 4 páginas.
 
@@ -50,7 +38,7 @@ CREATE DATABASE ProjetoAutoctone;
 
 USE ProjetoAutoctone;
 
--- Criação da tabela 'endereco' 
+-- Criação da tabela 'endereco'
 CREATE TABLE endereco (
     cep CHAR(10) PRIMARY KEY,
     rua VARCHAR(255),
@@ -60,7 +48,7 @@ CREATE TABLE endereco (
     estado VARCHAR(50)
 );
 
--- Criação da tabela 'aluno' 
+-- Criação da tabela 'aluno'
 CREATE TABLE aluno (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome_completo VARCHAR(255) NOT NULL,
@@ -174,6 +162,7 @@ CREATE TABLE aluno_oficinas (
     FOREIGN KEY (oficina_id) REFERENCES oficinas(id) ON DELETE CASCADE ON UPDATE CASCADE
     )
 ```
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
