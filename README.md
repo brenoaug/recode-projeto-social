@@ -122,6 +122,18 @@ A palavra "_Autóctone_" tem origem no grego "autochthōn", que é uma combinaç
 
 6. **Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega?**
 
+    **Distribuição das Atividades entre a Equipe**
+
+    ***Líder do Projeto***: Coordenação geral, comunicação com stakeholders, acompanhamento de prazos.
+
+    ***Desenvolvedor Front-end***: Design e desenvolvimento da plataforma
+
+    ***Desenvolvedor Back-end***: 
+    Realizador da modelagem de banco de dados
+
+    ***Pesquisador***: Responsável pelas Pesquisas 
+
+    ***Testador de Qualidade***: avaliador do site
 
 7. **Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades?**
    
