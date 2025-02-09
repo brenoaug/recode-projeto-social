@@ -151,7 +151,7 @@ Acesse o template: [Creative - Start Bootstrap](https://startbootstrap.com/theme
 
 A modelagem do banco de dados foi projetada para atender às necessidades do projeto, garantindo a integridade e a eficiência no armazenamento e recuperação dos dados. A estrutura do banco de dados inclui tabelas para armazenar informações sobre alunos, professores, mentores, aulas comunitárias, mentorias e oficinas. Além disso, foram criadas tabelas associativas para gerenciar os relacionamentos entre alunos e as atividades oferecidas. A modelagem foi feita de forma a permitir a fácil expansão e manutenção do sistema, utilizando chaves primárias e estrangeiras para assegurar a integridade referencial dos dados.
 
-### Modelagem Conceitual/Física
+### Modelagem Conceitual/Lógica
 
 Abaixo está a representação gráfica da modelagem do banco de dados:
 
