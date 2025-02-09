@@ -30,7 +30,7 @@ A palavra "_Autóctone_" tem origem no grego "autochthōn", que é uma combinaç
 
 1. **Considerando o desafio escolhido, qual é o problema a ser resolvido e que será contemplado com o projeto final?** 
 
-    O projeto Autoctone visa resolver a falta de acesso a uma educação de qualidade e culturalmente adaptada para comunidades indígenas. Apesar das políticas públicas, essas comunidades enfrentam desafios como infraestrutura inadequada, escassez de materiais didáticos específicos e formação insuficiente de professores. Além disso, a educação indígena muitas vezes não valoriza os conhecimentos ancestrais, resultando na perda de línguas e saberes tradicionais. 
+    O projeto Autoctone visa resolver a falta de acesso a uma educação de qualidade e culturalmente adaptada para comunidades indígenas. Apesar das políticas públicas, essas comunidades enfrentam desafios como infraestrutura inadequada, escassez de materiais didáticos específicos. Além disso, a educação indígena muitas vezes não valoriza os conhecimentos ancestrais, resultando na perda de línguas e saberes tradicionais. 
 
 2. **Qual o público-alvo? A solução poderá ser aplicada a todos, sem restrição de idade ou grau de escolaridade, por exemplo?**
 
