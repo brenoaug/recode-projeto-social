@@ -292,6 +292,3 @@ CREATE TABLE aluno_oficinas (
     )
 ```
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT
